@@ -1,5 +1,30 @@
 @import 'tailwindcss';
 
 body {
-  background: #222;
+  background: #181821;
+}
+
+label {
+  @apply flex items-center gap-1 mb-1;
+}
+
+input[type='text'],
+input[type='email'] {
+  @apply bg-slate-300 text-teal-900 text-sm rounded-lg focus:ring-teal-500 focus:border-teal-500 block w-full p-2.5;
+}
+
+textarea {
+  @apply bg-slate-300  text-teal-900 text-sm rounded-lg resize-y focus:ring-teal-500 focus:border-teal-500 block w-full p-2.5;
+}
+
+input[type='radio'] {
+  @apply w-4 h-4  rounded bg-slate-300 focus:ring-4 focus:ring-teal-300 mr-2;
+}
+
+select {
+  @apply bg-slate-300  text-teal-900 text-sm rounded-lg focus:ring-teal-500 focus:border-teal-500 block w-full p-2.5;
+}
+
+.btn-primary {
+  @apply text-white bg-teal-700 hover:bg-teal-800 focus:ring-4 focus:outline-none focus:ring-teal-300 rounded-md text-sm w-full sm:w-auto px-5 py-2 text-center cursor-pointer;
 }

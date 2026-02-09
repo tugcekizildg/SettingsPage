@@ -4,7 +4,11 @@ This template should help get you started developing with Vue 3 in Vite.
 
 ## Screenshot
 
-![Desktop Screenshot](/DesktopScreenshotSettingsPage.png)
+General Settings Tab![Desktop Screenshot](/GeneralSettingsScreenshotDesktop.png)
+
+Notifications Settings Tab![Desktop Screenshot](/NotificationsSettingsScreenshotDesktop.png)
+
+Privacy Settings Tab![Desktop Screenshot](/PrivacySettingsScreenshotDesktop.png)
 
 ## Recommended IDE Setup
 
