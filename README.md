@@ -10,6 +10,8 @@ Notifications Settings Tab![Desktop Screenshot](/NotificationsSettingsScreenshot
 
 Privacy Settings Tab![Desktop Screenshot](/PrivacySettingsScreenshotDesktop.png)
 
+Toast Notification![Desktop](/ToastNotificationScreenshot.png)
+
 ## Recommended IDE Setup
 
 [VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
